@@ -1,4 +1,4 @@
-// Status Passed
+// Status Passed 6ms
 
 // Status : INCORRENT: SAVED REASON : ZIGZAG UP AND DOWN : NEEDED : ONLY UP AND RESET
 var convert1 = function (s, numRows) {
