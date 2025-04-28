@@ -29,3 +29,26 @@ function sum(a, b) {
   return a + b;
 }
 ```
+
+# LeetCode Practice
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?logo=leetcode&style=flat)](https://leetcode.com/ligvado/)
+[![Problems Solved](https://img.shields.io/badge/Solved-10+-brightgreen?style=flat)]()
+
+A collection of my LeetCode solutions and interview preparation notes. This repository documents my journey in mastering algorithms and data structures for technical interviews.
+
+## 📌 Contents
+
+- **Solutions** to 10+ problems (Easy/Medium/Hard)
+- **Optimal approaches** with time/space complexity analysis
+
+## 🛠 Languages Used
+
+- JavaScript
+- TypeScript
+
+## 📝 Notes
+
+- Focus on understanding patterns, not memorization
+- Time yourself to simulate interview conditions
+- Revisit solved problems periodically
